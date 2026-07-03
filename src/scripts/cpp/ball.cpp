@@ -4,11 +4,11 @@
 #include "ball.hpp"
 
 Ball::Ball(int x, int y, int Vx, int Vy, int radius) 
-    : x(x), y(y), Vx(Vx), Vy(Vy), radius(radius), bonkSound("../sound/Bonk_Sound_Effect.wav") {}
+    : x(x), y(y), Vx(Vx), Vy(Vy), radius(radius), bonkSound("sound/Bonk_Sound_Effect.wav") {}
 
 void Ball::update(Ball& b, double deltaTime, double gravity)
 {
-    bonkSound.Volume(0.1f);
+    bonkSound.Volume(0.09f);
     
     if(isDragging) return;
     bool onGround = y >= WINDOW_HEIGHT - radius;

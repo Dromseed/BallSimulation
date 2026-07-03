@@ -1,0 +1,3 @@
+/mnt/HardDisk/Projects/BallSimulation/build/CMakeFiles/BouncingBall.dir
+/mnt/HardDisk/Projects/BallSimulation/build/CMakeFiles/edit_cache.dir
+/mnt/HardDisk/Projects/BallSimulation/build/CMakeFiles/rebuild_cache.dir

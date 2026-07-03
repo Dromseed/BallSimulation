@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/HardDisk/Projects/BallSimulation/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
