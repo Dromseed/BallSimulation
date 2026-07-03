@@ -1,4 +1,4 @@
-Bouncing Ball Physics (SDL3)
+# Bouncing Ball Physics (SDL3)
 
 A simple C++ physics simulator built with SDL3: gravity, wall bounces with energy loss, mouse dragging with throw inertia.
 
