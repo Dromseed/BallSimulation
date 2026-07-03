@@ -14,7 +14,6 @@ A simple C++ physics simulator built with SDL3: gravity, wall bounces with energ
 
 - C++17
 - [SDL3](https://github.com/libsdl-org/SDL)
-- CMake (auto-fetches SDL3 if not found system-wide)
 
 ## Project structure
 
